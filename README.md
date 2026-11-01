@@ -20,9 +20,9 @@ Each folder corresponds to one module.
 
 ## Reflection 
 1. Run git log --oneline in your repo and paste the output into your answer. Put a line of three backticks above it and another below it so it shows as a code block. Look at your commit messages — if you were hiring someone and saw this history, what would it tell you about how they work?
-   \\\
-   dfbc7fd (HEAD -> main) add module 7 functions: calculate_tax, apply_discount, final_price
-   \\\
+
+   (dfbc7fd (HEAD -> main) add module 7 functions: calculate_tax, apply_discount, final_price)
+
 
    If I was hiring, it would tell me that they have not done alot because they dont have a large history
 

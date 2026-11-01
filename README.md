@@ -18,12 +18,3 @@ Each folder corresponds to one module.
 - `lab07/` — Functions: calculate_tax, apply_discount
 - `lab08/` — Git: first GitHub submission
 
-## How to Run
-
-Each script is standalone. Open a terminal and run:
-```
-python lab07/functions.py
-```
-git add README.md
-git commit -m "add README with module listing and run instructions"
-git push

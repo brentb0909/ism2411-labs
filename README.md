@@ -16,7 +16,9 @@ Each folder corresponds to one module.
 - `week05/` — Conditionals: tiered discount calculator
 - `week06/` — Loops: sales report with sum, average, max
 - `week07/` — Functions: calculate_tax, apply_discount
-- `week08/` — Git: first GitHub submission
+- `week08/` — Git: first GitHub submission (no submission, just tracking time)
+- `week09/` - Midterm: (no submission, just tracking time)
+- `week10/` - Inventory List Manager
 
 ## Reflection 
 1. Run git log --oneline in your repo and paste the output into your answer. Put a line of three backticks above it and another below it so it shows as a code block. Look at your commit messages — if you were hiring someone and saw this history, what would it tell you about how they work?

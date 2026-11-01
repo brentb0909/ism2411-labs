@@ -13,8 +13,8 @@ Each folder corresponds to one module.
 
 ## Modules
 
-- `lab05/` — Conditionals: tiered discount calculator
-- `lab06/` — Loops: sales report with sum, average, max
-- `lab07/` — Functions: calculate_tax, apply_discount
-- `lab08/` — Git: first GitHub submission
+- `week05/` — Conditionals: tiered discount calculator
+- `week06/` — Loops: sales report with sum, average, max
+- `week07/` — Functions: calculate_tax, apply_discount
+- `week08/` — Git: first GitHub submission
 
